@@ -38,9 +38,3 @@ This project integrates **data analysis (Pandas)**, **API usage (Spotipy)**, and
 
 ---
 
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<yourusername>/discord-spotify-music-recommender-bot.git
-cd discord-spotify-music-recommender-bot
